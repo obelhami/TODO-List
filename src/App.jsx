@@ -28,7 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p> */}
-      <h1 className='text-[50px]'>TODO list</h1>
+      <h1 className='text-[5000px]'>TODO list</h1>
     </>
   )
 }
